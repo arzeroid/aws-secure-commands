@@ -22,7 +22,7 @@ cp .env.example .env
 2. Set values of each variable in .env
 3. Copy PEM file to project folder
 
-##Environment Variables
+## Environment Variables
 
 - **KEY_PATH** - Path to PEM file, for example, *key.pem*
 - **USERNAME** - username that use to login, for example, *ec2-user*
