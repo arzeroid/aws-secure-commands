@@ -7,7 +7,7 @@ Provide bash scripts for AWS SSH and SCP with easily config environment in .env 
 
 This command is used to remote to EC2 instance.
 
-###SCP
+### SCP
 
 This command is used to download existing files in EC2 instance to local machine.
 
